@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertercleoshelomitha", "convertercleoshelomitha.csproj", "{DE966C8D-45C7-4582-8FF1-6ACBB75304E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form5", "..\form5\form5.csproj", "{85A32983-B7B6-4CC2-8B5B-B5220BBAF313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE966C8D-45C7-4582-8FF1-6ACBB75304E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE966C8D-45C7-4582-8FF1-6ACBB75304E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE966C8D-45C7-4582-8FF1-6ACBB75304E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE966C8D-45C7-4582-8FF1-6ACBB75304E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A32983-B7B6-4CC2-8B5B-B5220BBAF313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A32983-B7B6-4CC2-8B5B-B5220BBAF313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A32983-B7B6-4CC2-8B5B-B5220BBAF313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A32983-B7B6-4CC2-8B5B-B5220BBAF313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA2801D-8080-4F17-883A-4AF75F74BD46}
+	EndGlobalSection
+EndGlobal
